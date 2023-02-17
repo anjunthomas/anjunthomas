@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Anju Thomas!
 
 <!--
 **anjunthomas/anjunthomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
+### About Me
+I am currently studying computer science. This is my first readme file.
+
+### Computer Science Student
+
+### What do I do for fun? 
+Rock Climbing, Dancing, and Reading
